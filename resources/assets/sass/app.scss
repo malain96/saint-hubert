@@ -1,0 +1,35 @@
+
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+#hunters thead tr, #lessors thead tr{
+    background-color: #333333;
+    color: #ECF0F5;
+}
+
+#hunters tfoot tr, #lessors tfoot tr{
+    background-color: #333333;
+    color: #ECF0F5;
+}
+
+#hunters tbody tr.even, #hunters tbody tr.odd, #lessors tbody tr.even, #lessors tbody tr.odd {
+    background-color: #ECF0F5;
+}
+
+#hunters tbody tr.odd, #hunters tbody tr.odd, #lessors tbody tr.odd, #lessors tbody tr.odd {
+    background-color: #E6E6E6;
+}
+
+
+#hunters tr.odd:hover, #lessors tr.odd:hover {
+    background-color: #A6A6A6;
+}
+#hunters tr.even:hover, #lessors tr.even:hover {
+    background-color: #A6A6A6;
+}
