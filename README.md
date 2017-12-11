@@ -1,11 +1,15 @@
-#Saint-hubert
+# Saint-hubert
+
+## Table of content
+
+  * [Description](#description)
+  * [Information](#information)
+  * [Installing](#installing)
+  * [Demo](#demo)
+  * [License](#license)
 
 
-**Table of contents**
-
-[TOC]
-
-##Description
+## Description
 
 
 Saint-hubert is a web application based on Laravel to manage a hunting club. This app was created to answer the needs of a specific French hunting club and is only available in French for now.
@@ -17,7 +21,7 @@ In this version you are able to :
  - Add user (As admin)
  - Modify your password
 
-Your are more than welcome to use and modify it as you please.
+You are more than welcome to use and modify it as you please.
 
 ## Information
 * The default admin account is :
