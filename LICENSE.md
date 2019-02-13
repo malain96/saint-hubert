@@ -1,4 +1,4 @@
-Copyright (c) 2017 Mathieu ALAIN
+Copyright (c) 2019 Mathieu ALAIN
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
